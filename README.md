@@ -7,11 +7,8 @@ This is a application developed using Google Codelab:-
 [Part 1](https://developers.google.com/codelabs/first-flutter-app-pt1)
 <br>
 [Part 2](https://developers.google.com/codelabs/first-flutter-app-pt2)
-
 <br>
-
 [The Flutter Pathway by Google](https://developers.google.com/learn/pathways/intro-to-flutter)
-
 <br>
 
 
