@@ -1,6 +1,17 @@
-# startup_namer
+# Startup Name Generator
 
-A new Flutter project to generate startup names https://developers.google.com/codelabs/first-flutter-app-pt1
+A new Flutter project to generate startup names
+
+This is a application developed using Google Codelab:-
+<br>
+[Part 1](https://developers.google.com/codelabs/first-flutter-app-pt1)
+<br>
+[Part 2](https://developers.google.com/codelabs/first-flutter-app-pt2)
+
+<br>
+The Flutter Pathway [link](https://developers.google.com/learn/pathways/intro-to-flutter)
+<br>
+
 
 ## Getting Started
 
