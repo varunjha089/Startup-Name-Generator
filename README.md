@@ -9,7 +9,8 @@ This is a application developed using Google Codelab:-
 [Part 2](https://developers.google.com/codelabs/first-flutter-app-pt2)
 
 <br>
-The Flutter Pathway [link](https://developers.google.com/learn/pathways/intro-to-flutter)
+
+The Flutter Pathway [click here](https://developers.google.com/learn/pathways/intro-to-flutter)
 <br>
 
 
