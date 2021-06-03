@@ -10,7 +10,8 @@ This is a application developed using Google Codelab:-
 
 <br>
 
-The Flutter Pathway [click here](https://developers.google.com/learn/pathways/intro-to-flutter)
+The Flutter Pathway https://developers.google.com/learn/pathways/intro-to-flutter
+
 <br>
 
 
